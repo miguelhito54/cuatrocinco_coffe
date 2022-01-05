@@ -42,7 +42,7 @@ body {
   background-color: #702b27;
 }
 
-/* Card */
+/* Cards */
 .cards {
   display: grid;
   grid-template-columns: 1fr 1fr;
