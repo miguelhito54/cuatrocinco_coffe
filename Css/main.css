@@ -425,4 +425,10 @@ span{
   margin-bottom: 6rem;
 }
 
-/**/
+/*responsive*/
+@media screen and (max-width: 768px) {
+  .bebida_cards{
+    grid-template-columns: repeat(2,1fr);
+  }
+}
+
