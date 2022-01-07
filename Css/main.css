@@ -13,6 +13,13 @@ body {
 .navbar{
   grid-column-start:2;
 }
+.logo45{
+  display: flex;
+  justify-content:center;
+  width: 100px;
+  height: 100px;
+  padding: 1rem;
+}
 .navbar{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
